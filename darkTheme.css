@@ -1,0 +1,34 @@
+iframe, body, form, div, .container, button, input, tbody, tr, th, a, h1, h2, h3, h4, h5, h6, p, pre{
+    background-color: #212121 !important;
+}
+
+iframe, p, span, div, input, h, h1, h2, h3, h4, h5, h6, li, pre, body, tt, tbody, tr, th{
+    color: #a0a0a0 !important;
+}
+
+mark {
+    color: black !important;
+    background-color: purple !important;
+}
+
+code {
+    color: #a0a0a0 !important;
+    background-color: gray !important;
+}
+
+a:link {
+    color: #7169c7 !important;
+}
+
+a:visited, a:active {
+    color: #622d9a !important;
+}
+
+a:hover {
+    color: #4d42c1 !important;
+}
+
+
+em {
+    color: 
+}
