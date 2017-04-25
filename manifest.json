@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Cole's Extension",
+  "name": "Theme Engine",
   "version": "0.1",
   
   "content_scripts": [
