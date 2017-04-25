@@ -8,8 +8,9 @@ If you have two monitors and like to program in the dark then you'll know the pa
 The original idea for the extension was just to have this one dark theme but soon I realized while showing off my work to others that not everybody wanted this exact dark theme. Some people wanted pitch black background with vibrant text, others wanted different shades of the dark gray. This made me realize instead of only having one theme available, I should allow for others to create their own themes in css and eventually work towards creating a theme created which is where the name comes in: Theme Engine (I might have a better name for the future as not to confuse it with Cyanogen Mod's theme engine for Android). 
 
 # Example Work
+Original:
 ![Original](http://i.imgur.com/tT5LpmG.png)
-
+Dark Theme Activated: 
 ![Dark Theme Activated](http://i.imgur.com/gLgokes.png)
 
 # How to contribute
